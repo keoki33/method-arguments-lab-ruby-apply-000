@@ -1,5 +1,8 @@
 
 
+#inroduction method takes in an argument of name.
+#use puts to display phrase with name from argument
+
 def introduction(name)
   puts "Hi, my name is #{name}."
 end
